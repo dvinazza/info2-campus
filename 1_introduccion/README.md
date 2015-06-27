@@ -1,0 +1,5 @@
+#Introducción general al hardware en general y acceso a registros. Presentación de la plataforma Cortex-M3
+
+Introducción al HardWare: Puertos de entrada / salida elementales (latch y buffer). Puertos inteligentes: registros de datos, control y de estados. Integración en un solo chip. Ideas sobre consumo de energía Periféricos y celdas de memoria: Como se ven desde el micro. Génesis de los lenguajes de programación. Del código de máquina al C. Construcción de un archivo ejecutable: compilación y linkeo. Compilación modular. Assembler y C. Metodología de proyecto. IDEs.
+
+AplicacionesAplicaciones elementales de los puertos de entrada/salida de propósito general (GPIO): tratamiento como entrada, tratamiento como salida, tratamiento bidireccional. Memoria de datos. Memoria de programa -Mapa de memoria: RAM y ROM (flash). Especificadores de memoria. Archivos de cabecera y librerias - Diferencias con otros microcontroladores. - IDEs para microcontroladores - Compilación modular - Metodología de proyectos –Diagrama de capas: drivers, primitivas, aplicación – portabilidad.
